@@ -20,8 +20,10 @@ public void loadpiechart(ActionEvent event){
 			new PieChart.Data("PHP", 35)
 			);
 	piechart.setData(list);
-	// one can edit many properties of piechart in screen builder, eg. clockwise, legend, title etc.
-	
+	/*one can edit many properties of piechart in screen
+	 *  builder, eg. clockwise, legend, title etc.
+	 */
+
 }
 
 }
